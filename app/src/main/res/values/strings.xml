@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YoutubeMe</string>
+    <string name="player_error">Erro ao tentar iniciar YouTube Player</string>
+    <string name="seek_to">Ir para</string>
+    <string name="seek_to_hint">Segundos</string>
+    <string name="hint_url">Cole a url do video</string>
+    <string name="label_btn_run_video">Executar Vídeo</string>
+</resources>
